@@ -6,3 +6,5 @@ Jordi Merino#, Marta Guasch-Ferré#, Jun Li#, Wonil Chung, Yang Hu, Baoshan Ma, 
 We provide the folloing code and model:
 1. a demo code for the UKB GWAS and PRS model；
 2. the T2D PRS model using p=0.03.
+
+If you find our method is useful, please cite our paper.
